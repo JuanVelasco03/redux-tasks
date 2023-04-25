@@ -2,7 +2,7 @@
   "name": "react-rtk-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://JuanVelasco03.github.io",
+  "homepage": "http://JuanVelasco03.github.io/redux-tasks",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.5",
