@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/redux-tasks/static/css/main.bc265dad.css",
-    "main.js": "/redux-tasks/static/js/main.4c7f3850.js",
+    "main.js": "/redux-tasks/static/js/main.d6b647ab.js",
     "index.html": "/redux-tasks/index.html",
     "main.bc265dad.css.map": "/redux-tasks/static/css/main.bc265dad.css.map",
-    "main.4c7f3850.js.map": "/redux-tasks/static/js/main.4c7f3850.js.map"
+    "main.d6b647ab.js.map": "/redux-tasks/static/js/main.d6b647ab.js.map"
   },
   "entrypoints": [
     "static/css/main.bc265dad.css",
-    "static/js/main.4c7f3850.js"
+    "static/js/main.d6b647ab.js"
   ]
 }
