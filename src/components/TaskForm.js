@@ -36,7 +36,7 @@ export const TaskForm = () => {
             dispatch(editTask(task))
         }
         dispatch(addTask({...task, id: uuid()}))
-        navigate("/")
+        navigate("/redux-tasks")
     }
 
     return (
