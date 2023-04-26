@@ -1,5 +1,4 @@
 import './App.css';
-import { TaskForm } from './components/TaskForm';
 import { TasksLists } from './components/TasksLists';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
@@ -10,9 +9,7 @@ function App() {
       <div className='flex items-center justify-center h-full'>
         <BrowserRouter>
           <Routes>
-            <Route path='/redux-tasks' element={<TasksLists />} />
-            <Route path='/redux-tasks/create-task' element={<TaskForm />} />
-            <Route path='/redux-tasks/edit-task/:id' element={<TaskForm />} />
+            <Route path='/redux-tasks/:id?' element={<TasksLists />} />
           </Routes>
         </BrowserRouter>
       </div>
